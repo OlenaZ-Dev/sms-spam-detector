@@ -1,5 +1,7 @@
 # 📱 SMS Spam Detection using Logistic Regression (NLP Project)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OlenaZ-Dev/sms-spam-detector/blob/main/sms_spam_detector.ipynb)
+
 ---
 
 ## 🇬🇧 English
